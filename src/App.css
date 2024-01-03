@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-heading {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    font-weight: 900;
+    width: 96%;
+    border-radius: 10px;
+    margin-bottom: 0px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap:2em;
+    align-items: center;
+}
