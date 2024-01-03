@@ -25,14 +25,13 @@
 .a-random-container button {
     background-color: rgba(204,223,251,255);
     color: black;
-    padding: 10px 15em 10px 15em;
     margin-bottom: 15px;
-    margin-left:10px;
-    margin-right:10px;
     border: none;
-    margin-top: 0px;
-    border-radius: 10px;
+    text-align: center;
+    width: 40vw;
+    height: 5vh;
     font-size: 20px;
+    border-radius: 10px;
 }
 
 .a-random-container input {
